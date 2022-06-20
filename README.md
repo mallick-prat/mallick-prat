@@ -15,6 +15,6 @@ I'm Pratyush! I'm currently a second-year student at Harvard College exploring t
 <h3 align="center">
 
 <a href="http://www.google.com/">
-   <input type="button" value="Register to Vote" />
+   <input type="button" value="Register to Vote 🇺🇸" />
 </a>
 </h3>
