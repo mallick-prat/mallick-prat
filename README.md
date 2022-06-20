@@ -1,7 +1,7 @@
-<h3 align="center"> Howdy! 👋</h3>
+<h3 align="center"> Howdy, I'm Pratyush! 👋</h3>
 
 <p align="center">
-I'm Pratyush! I'm currently a second-year student at Harvard College exploring the interesection of Government and Computer Science.
+I'm currently a second-year student at Harvard College exploring the interesection of Government and Computer Science.
 </p>
 
 <h4 align="center">
