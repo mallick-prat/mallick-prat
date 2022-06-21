@@ -12,12 +12,12 @@ I'm a second-year student at Harvard College exploring the interesection of Gove
 </p>
 
 <p  align="center">
-लोगों को राजा के लिए आपको चुनने दें
+प्रजा को अपने राजा चुनने दें
 </p>
 
-  <small align = "center">
-    Let the people choose you for the king
-  </small>
+<p  align="center">
+<small>Let the people choose their kings</small>
+</p>
   
 <h3 align="center">
 <a href="http://www.google.com/">
