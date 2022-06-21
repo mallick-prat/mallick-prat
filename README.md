@@ -13,10 +13,12 @@ I'm a second-year student at Harvard College exploring the interesection of Gove
 
 <p  align="center">
 लोगों को राजा के लिए आपको चुनने दें
-  <small>
+</p>
+
+  <small align = "center">
     Let the people choose you for the king
   </small>
-</p>
+  
 <h3 align="center">
 <a href="http://www.google.com/">
    <input type="button" value="Register to Vote 🇺🇸" />
