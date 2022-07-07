@@ -10,15 +10,6 @@ I'm a second-year student at Harvard College exploring the interesection of Gove
 <p  align="center">
 <a href="https://akasrai.github.io/">https://voteschallenge.harvard.edu</a>
 </p>
-
-<p  align="center">
-प्रजा को अपने राजा चुनने दें
-</p>
-<h6>
-<p  align="center">
-<small>Let the people choose their kings</small>
-</p>
-</h6>
   
 <h3 align="center">
 <a href="http://www.google.com/">
