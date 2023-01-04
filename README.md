@@ -1,7 +1,7 @@
 <h3 align="center"> Howdy, I'm Pratyush! 👋</h3>
 
 <p align="center">
-I'm a second-year student at Harvard College exploring the interesection of Government, Computer Science, and Labor Theory. 
+I'm a second-year student at Harvard College exploring the intersection of Government, Computer Science, and Labor Theory. 
 </p>
 
 <h4 align="center">
